@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/cimet/Documents/task_nerv/build",
+  "command": "/usr/bin/g++-7    -g   -o CMakeFiles/Test.dir/src/main.cpp.o -c /home/cimet/Documents/task_nerv/src/main.cpp",
+  "file": "/home/cimet/Documents/task_nerv/src/main.cpp"
+},
+{
+  "directory": "/home/cimet/Documents/task_nerv/build",
+  "command": "/usr/bin/g++-7    -g   -o CMakeFiles/Test.dir/src/syncer.cpp.o -c /home/cimet/Documents/task_nerv/src/syncer.cpp",
+  "file": "/home/cimet/Documents/task_nerv/src/syncer.cpp"
+}
+]

@@ -1,0 +1,3 @@
+/home/cimet/Documents/task_nerv/CMakeFiles/rebuild_cache.dir
+/home/cimet/Documents/task_nerv/CMakeFiles/main_demo.cpp.dir
+/home/cimet/Documents/task_nerv/CMakeFiles/edit_cache.dir
